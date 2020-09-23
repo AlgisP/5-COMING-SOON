@@ -82,12 +82,14 @@
             display: inline-block;
             width: 100%;
             border-bottom: 1px solid #fff;
+            text-align: center;
         }
         .footer-texts {
             display: inline-block;
-
-            /* width: 600px;
-            margin-left: calc((100% - 600px) / 2); */
+            text-align: center;
+            float: left;
+             width: 600px;
+            margin-left: calc((100% - 600px) / 2); 
             
         }
 
